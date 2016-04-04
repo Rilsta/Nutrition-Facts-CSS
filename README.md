@@ -5,10 +5,10 @@
 Recreate the nutrition facts label.
 
 ##Objective
-Use CSS to recreate the nutrition facts label.
+Familiarize self with CSS properties and attributes.
 
 ##View
-[Nutition Facts](http://rilsta.github.io/nutrition_facts/)
+[Nutrition Facts](http://rilsta.github.io/nutrition_facts/)
 
 ##License
 MIT License 2016
